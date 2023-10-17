@@ -1,0 +1,881 @@
+{
+  "courses": [
+    {
+      "id": "64883a8ab6a3fddba741f55e",
+      "title": "Thành thạo lập trình web Front-end",
+      "slug": "thanh-thao-lap-trinh-web-front-end",
+      "discountedPrice": 9900000,
+      "features": [
+        "36 buổi học qua Google Meet",
+        "Slide bài giảng chi tiết, tài liệu tham khảo",
+        "4 projects thực tế và 1 đồ án cuối khoá "
+      ],
+      "objectives": [
+        "Cách suy nghĩ và làm việc như một lập trình viên: xác định vấn đề, tìm kiếm giải pháp và giải quyết vấn đề",
+        "Hiểu về giao diện của trang website và trải nghiệm người dùng",
+        "Thực hành xây dựng các dự án website đẹp mắt cùng với HTML, CSS và Javascript",
+        "Nắm vững và thành thạo thư viện ReactJS chỉ sau 3 tháng",
+        "Thực hành xây dựng ứng dụng website lớn bằng ReactJS và học cách quản lý, phát triển ứng dụng một cách hiệu quả nhất"
+      ],
+      "objectives_src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696477523/courses/thanh-thao-lap-trinh-web-frond-end/FE_2_hkjtaa.png",
+      "price": 12500000,
+      "requirements": [
+        "Bạn cần chuẩn bị máy tính cá nhân",
+        "LIKELION không yêu cầu kiến thức đầu vào"
+      ],
+      "subtitle": "Thống lĩnh giao diện người dùng, tối ưu hiệu quả web.",
+      "tagline": "Thống lĩnh giao diện người dùng, tối ưu hiệu quả web",
+      "abbr": "Front-end",
+      "thumbnail": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696606824/courses/thanh-thao-lap-trinh-web-frond-end/FE_ov8rlx.png",
+      "thumbnail_og": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695821016/courses/thanh-thao-lap-trinh-web-frond-end/FE_mlqqw7.png",
+      "background": {
+        "from": "#37C157",
+        "to": "#9AE2A6"
+      },
+      "calendar": [
+        {
+          "title": "Khoá Front-end",
+          "start_date": "23/10/2023",
+          "duration": "12 tuần / 36 buổi",
+          "schedule": "Thứ 2 - 4 - 6 / 18:30 - 21:30",
+          "platform": "Google Meet"
+        }
+      ],
+      "promotions": [
+        "Học theo nhóm <strong>giảm thêm 200.000đ</strong>",
+        "Cựu học viên <strong>giảm thêm 300.000đ</strong>"
+      ],
+      "payment_methods": {
+        "once": {
+          "origin": 7500000,
+          "discounted": 6000000
+        },
+        "monthly": {
+          "times": 3,
+          "origin": 2500000
+        }
+      },
+      "lecturers": [
+        {
+          "name": "Nguyễn Đức Huy",
+          "profession": "Fullstack Developer & Giảng viên",
+          "description": "Với hơn 2 năm kinh nghiệm trong ngành Data Science cùng 5 năm kinh nghiệm trong lĩnh vực phát triển website và giảng dạy khóa Bootcamp, mình tin chắc là sẽ đem đến cho các bạn những buổi học đầy thú vị và chất lượng. Tham gia khóa học, các bạn sẽ được hướng dẫn cách học lập trình hiệu quả nhất cũng như góp phần hoạch định được chính xác con đường phát triển thành một lập trình viên chuyên nghiệp. Huy đang ở đây để sẵn sàng “on air” cùng bạn!",
+          "avatar": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1692603569/lecturers/Anh_Huy_eumn2w.png"
+        },
+        {
+          "name": "Nguyễn Tuấn Phúc",
+          "profession": "Mentor",
+          "description": "Xin chào, mình là Phúc. Hiện đang đảm nhận vị trí mentor cho các khóa học của LIKELION. Nhờ kinh nghiệm thực chiến nhiều dự án khác nhau cùng khoảng thời gian dài đồng hành với các bạn học viên, từ sinh viên CNTT cho đến các bạn chuyển ngành, mình thấu hiểu được những khó khăn mà các bạn thường gặp phải trong quá trình học. Bởi vậy, mình sẽ luôn có mặt để hỗ trợ các bạn vượt qua mọi khó khăn trên chặng đường tiến đến thành công. Hãy đồng hành cùng nhau nhé!",
+          "avatar": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1692603569/lecturers/Anh_Phu%CC%81c_uuulxv.png"
+        }
+      ],
+      "modules": [
+        {
+          "name": "HTML, CSS từ cơ bản đến chuyên sâu",
+          "lessons": [
+            "Giới thiệu về HTML, CSS và vai trò của nó trong phát triển web",
+            "Cú pháp và cấu trúc HTML, CSS",
+            "Tạo văn bản, hình ảnh và liên kết chúng với trang web",
+            "Các phần tử: danh sách (list), biểu mẫu (form) và bảng (table)",
+            "CSS Selector: xác định các phần tử HMTL muốn áp dụng thuộc tính CSS",
+            "Các thuộc tính tạo kiểu cơ bản: màu sắc, phông chữ, nền,…",
+            "Tạo bố cục bằng CSS sử dụng model box, position, flexbox và grid",
+            "Thiết kế responsive và media query"
+          ],
+          "projects": ["Landing page", "Portfolio Website"]
+        },
+        {
+          "name": "Front-end: JavaScript ES6",
+          "lessons": [
+            "Giới thiệu về JavaScript: kiểu dữ liệu, biến, toán tử, cấu trúc kiểm soát",
+            "Hàm JavaScript: cách tạo và gọi hàm, biểu thức hàm và phạm vi truy cập",
+            "Mảng (array): các phương thức hữu ích như Map, Reduce, Filter và Find.",
+            "Đối tượng (object): phương thức và khái niệm lập trình hướng đối tượng",
+            "Mô hình các đối tượng tài liệu (DOM): cách thao tác với DOM; tạo, đọc, cập nhật và xoá các phần tử HTML",
+            "Lập trình bất đồng bộ (asynchronous): cách sử dụng Promise, Async/Await và fetch API",
+            "Các khái niệm JavaScript nâng cao: Closures, Hoisting, Prototypal inheritance, và Design patterns.",
+            "JavaScript ES6: hàm Arrow, cú pháp Destructuring toán tử Spread, Optional Chaining,…"
+          ],
+          "projects": ["To-do Application"]
+        },
+        {
+          "name": "Front-end nâng cao với ReactJS",
+          "lessons": [
+            "Giới thiệu về ReactJS: khái niệm, công dụng và cách cài đặt môi trường",
+            "Component và JSX: tạo component, hiểu cú pháp JSX, props, state",
+            "Biểu mẫu (form) và sự kiện (event): xử lý sự kiện, nhập và xác thực biểu mẫu",
+            "Định tuyến (routing) và điều hướng (navigation): sử dụng React Router, tạo liên kết và các route ",
+            "Những tính năng mới nhất (luôn được cập nhật) trong ReactJS: Hook, Context API, Suspense, React Lazy,… ",
+            "Sử dụng Firebase để tạo ứng dụng Full-stack "
+          ],
+          "projects": ["Ecommerce Website với ReactJS và Supabase"]
+        },
+        {
+          "name": "Đồ án cuối khoá",
+          "lessons": [
+            "Ideathon: Thảo luận ý tưởng xây dựng trang web cùng giảng viên",
+            "Code trang web cá nhân",
+            "Trình bày dự án với giảng viên"
+          ],
+          "projects": []
+        }
+      ],
+      "tags": {
+        "schedules": ["3 tháng", "36 buổi"],
+        "status": ["Online", "Beginner"]
+      },
+      "highlights": [
+        "Nâng cấp giao diện web",
+        "Tương tác trực tiếp với giảng viên",
+        "Lộ trình bài bản, thực chiến"
+      ],
+      "benefits": [
+        {
+          "title": "Cơ hội học bổng 100%",
+          "description": "Cơ hội nhận được học bổng toàn phần sau khi hoàn thành khoá học, hoàn 100% học phí cho học viên.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696690307/courses/assets/dollar-sign_l5mymm.svg"
+        },
+        {
+          "title": "Hỗ trợ học lại",
+          "description": "Hỗ trợ học lại toàn bộ khoá học một lần duy nhất cho các bạn cần củng cố và ôn lại kiến thức.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696497230/courses/assets/repeat-2_kbenyh.svg"
+        },
+        {
+          "title": "Làm việc từ xa",
+          "description": "Cơ hội làm việc từ xa cho các công ty công nghệ hàng đầu tại Hàn Quốc dành cho học viên xuất sắc.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/wifi_dm36sf.svg"
+        },
+        {
+          "title": "Lộ trình khoa học",
+          "description": "Được đúc kết và biên soạn bởi đội ngũ giảng viên chuyên nghiệp đến từ các đoàn lớn: Zalo - VNG Group, FPT software,…",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/book-open-check_gg842d.svg"
+        },
+        {
+          "title": "Project thực tế",
+          "description": "Học viên được thực hành và mài giũa kỹ năng liên tục thông qua các bài tập và dự án đa dạng, từ dễ đến khó.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/folder-git-2_rkngkw.svg"
+        },
+        {
+          "title": "Thời gian linh hoạt",
+          "description": "Thời gian học vào buổi tối, dễ dàng sắp xếp công việc. Hình thức học online và tương tác trực tiếp với giảng viên.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/calendar-check_r83jcs.svg"
+        },
+        {
+          "title": "Hỗ trợ 24/7",
+          "description": "Đội ngũ mentor tận tâm và nhiệt tình, luôn có mặt để giúp đỡ và giải đáp thắc mắc cho học viên 24/7.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/phone-incoming_byz9gp.svg"
+        },
+        {
+          "title": "Chứng nhận tốt nghiệp",
+          "description": "Sau khoá học, LIKELION sẽ cấp giấy chứng nhận hoàn thành khoá học cho các học viên đáp ứng đủ yêu cầu.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/graduation-cap_kfiuyr.svg"
+        }
+      ],
+      "techs": [
+        "html",
+        "css",
+        "js",
+        "react",
+        "github",
+        "node",
+        "tailwind",
+        "webpack"
+      ],
+      "excerpt": "Thành thạo kỹ năng xây dựng giao diện web, phát triển trong lĩnh vực dev web.",
+      "showcases": [
+        {
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1688188472/courses/bootcamp-lap-trinh-web-fullstack/projects/dwelling.png",
+          "title": "Dwelling - Apartment Rental Company Website",
+          "tags": ["HTML", "CSS", "JavaScript"]
+        },
+        {
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1688188469/courses/bootcamp-lap-trinh-web-fullstack/projects/portfolio.png",
+          "title": "John Doe - Artist Portfolio Website",
+          "tags": ["HTML", "CSS", "JavaScript"]
+        },
+        {
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1688188468/courses/bootcamp-lap-trinh-web-fullstack/projects/phloko.png",
+          "title": "Floko - Design Agency Website",
+          "tags": ["JavaScript", "ReactJS", "Tailwind CSS"]
+        },
+        {
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1688188472/courses/bootcamp-lap-trinh-web-fullstack/projects/travel.png",
+          "title": "TrapTip - Traveling Agency Website",
+          "tags": ["JavaScript", "ReactJS", "Tailwind CSS"]
+        },
+        {
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1688188468/courses/bootcamp-lap-trinh-web-fullstack/projects/florist.png",
+          "title": "Florist - Flower Shop Website",
+          "tags": ["JavaScript", "ReactJS", "Supabase", "PostgreSQL"]
+        }
+      ],
+      "trialUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeI0D0GgctKe_5dF0Abq2LJkMb18QlvUBAjNqkDmPm18LjZMg/viewform"
+    },
+    {
+      "id": "64df3889ac99f03faac99cee",
+      "title": "Khoá học Python cho Data Analysis",
+      "slug": "khoa-hoc-python-cho-data-analysis",
+      "features": [
+        "36 buổi học qua Google Meet",
+        "Slide bài giảng chi tiết, tài liệu tham khảo",
+        "3 projects thực tế và 1 đồ án cuối khoá "
+      ],
+      "objectives": [
+        "Thành thạo lập trình Python cơ bản, hỗ trợ cho phân tích và phát triển dữ liệu",
+        "Thành thạo phân tích dữ liệu bằng Pandas",
+        "Biết cách trực quan hoá dữ liệu bằng đồ thị với các thư viện Matplotlib, Seaborn và Plotly",
+        "Áp dụng các kỹ thuật để hỗ trợ cho việc ứng dụng thống kê vào trong dữ liệu",
+        "Nâng cấp chuyên môn về dữ liệu nhờ Python chỉ sau 3 tháng"
+      ],
+      "objectives_src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696478877/courses/khoa-hoc-python-cho-data-analysis/Python_2_xidgkb.png",
+      "price": 6000000,
+      "requirements": [
+        "Bạn cần chuẩn bị máy tính cá nhân",
+        "LIKELION không yêu cầu kiến thức đầu vào"
+      ],
+      "subtitle": "Chinh phục Data Analysis, dẫn đầu xu thế tuyển dụng.",
+      "tagline": "Chinh phục Data Analysis, dẫn đầu xu thế tuyển dụng",
+      "abbr": "Python Data",
+      "thumbnail": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696606879/courses/khoa-hoc-python-cho-data-analysis/Python_qmfs7m.png",
+      "thumbnail_og": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695888940/courses/khoa-hoc-python-cho-data-analysis/Python_lm3uf0_a4xsa3.png",
+      "background": {
+        "from": "#3FA8EF",
+        "to": "#0068AF"
+      },
+      "calendar": [
+        {
+          "title": "Python cho Data Analysis",
+          "start_date": "23/10/2023",
+          "duration": "12 tuần / 36 buổi",
+          "schedule": "Thứ 2 - 4 - 6 / 18:30 - 21:30",
+          "platform": "Google Meet"
+        }
+      ],
+      "promotions": [
+        "Học theo nhóm <strong>giảm thêm 200.000đ</strong>",
+        "Cựu học viên <strong>giảm thêm 300.000đ</strong>"
+      ],
+      "payment_methods": {
+        "once": {
+          "origin": 7500000,
+          "discounted": 6000000
+        },
+        "monthly": {
+          "times": 3,
+          "origin": 2500000
+        }
+      },
+      "modules": [
+        {
+          "name": "Python cơ bản",
+          "lessons": [
+            "Giới thiệu về Data Science và Python cơ bản",
+            "Biến, kiểu dữ liệu và toán tử của Python",
+            "Cấu trúc điều khiển: Câu lệnh If và vòng lặp",
+            "Hàm trong Python",
+            "Các thư viện trong Python"
+          ],
+          "projects": []
+        },
+        {
+          "name": "Phân tích dữ liệu với Python",
+          "lessons": [
+            "Giới thiệu về Pandas",
+            "Các kiểu dữ liệu và thực hiện thao tác trên dữ liệu",
+            "Thực hiện các thao tác và định dạng chuỗi",
+            "Xử lý tệp trong Python",
+            "Chuyển đổi kiểu dữ liệu với Pandas",
+            "Kỹ thuật làm sạch dữ liệu với Pandas"
+          ],
+          "projects": ["Phân tích dữ liệu với Pandas"]
+        },
+        {
+          "name": "Trực quan hoá dữ liệu",
+          "lessons": [
+            "Trực quan hoá dữ liệu với Matplotlib",
+            "Trực quan hoá dữ liệu với Seaborn",
+            "Tìm hiểu và phân tích dữ liệu (EDA)",
+            "Phân tích về tính phân bổ dữ liệu và Histogram",
+            "Phân tích về tính tương quan và Heatmap"
+          ],
+          "projects": []
+        },
+        {
+          "name": "Ứng dụng thống kê vào trong dữ liệu",
+          "lessons": [
+            "Giới thiệu về Thống kê cho Data Science",
+            "Hypothesis Testing và Confidence Intervals",
+            "Phân tích dữ liệu theo chuỗi thời gian",
+            "Trực quan hóa dữ liệu nâng cao với Plotly",
+            "Kỹ thuật làm sạch và chuyển đổi dữ liệu",
+            "Phân tích dữ liệu không gian với GeoPandas"
+          ],
+          "projects": ["Phân tích và trực quan hoá dữ liệu"]
+        },
+        {
+          "name": "Kiến thức bổ sung",
+          "lessons": [
+            "Giới thiệu về SQL cho Data Science",
+            "Giới thiệu về Web Scraping và API",
+            "Quy tắc về quyền riêng tư trong quản lý dữ liệu"
+          ],
+          "projects": []
+        },
+        {
+          "name": "Project phân tích dự án dữ liệu Capstone",
+          "lessons": [
+            "Project phân tích dự án dữ liệu Capstone (Phần 1)",
+            "Project phân tích dự án dữ liệu Capstone (Phần 2)",
+            "Project phân tích dự án dữ liệu Capstone (Phần 3)",
+            "Hoàn thiện dự án Capstone"
+          ],
+          "projects": []
+        },
+        {
+          "name": "Đồ án cuối khoá",
+          "lessons": [
+            "Ứng dụng thực tế và đánh giá (Phần 1)",
+            "Ứng dụng thực tế và đánh giá (Phần 2)",
+            "Thuyết trình với giảng viên"
+          ],
+          "projects": []
+        }
+      ],
+      "tags": {
+        "schedules": ["3 tháng", "36 buổi"],
+        "status": ["Online", "Beginner"]
+      },
+
+      "lecturers": [
+        {
+          "name": "Đinh Hoàng Anh",
+          "profession": "AI Engineer | VNG-Zalo",
+          "description": "Chào các bạn! Mình là Hoàng Anh, chuyên ngành Khoa học máy tính tại Đại học Bách Khoa. Hiện mình đang làm việc ở vị trí AI Engineer tại Zalo. Với chuyên môn về AI Engineering cùng việc sử dụng thành thạo Python, SQL và ứng dụng các kỹ thuật xử lý dữ liệu trong các dự án AI, mình sẽ hướng dẫn cho các bạn cách thức hiệu quả nhất để làm chủ cơ sở dữ liệu. Từ đó rút ra những insights có giá trị cho doanh nghiệp của mình.",
+          "avatar": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1692774556/lecturers/Hoa%CC%80ng_Anh_1_udvdf0.png"
+        }
+      ],
+      "highlights": [
+        "Nâng cấp kỹ năng Data Analysis",
+        "Giảng viên đến từ tập đoàn lớn",
+        "Lộ trình khoa học, rõ ràng"
+      ],
+      "benefits": [
+        {
+          "title": "Cơ hội học bổng 100%",
+          "description": "Cơ hội nhận được học bổng toàn phần sau khi hoàn thành khoá học, hoàn 100% học phí cho học viên.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696690307/courses/assets/dollar-sign_l5mymm.svg"
+        },
+        {
+          "title": "Hỗ trợ học lại",
+          "description": "Hỗ trợ học lại toàn bộ khoá học một lần duy nhất cho các bạn cần củng cố và ôn lại kiến thức.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696497230/courses/assets/repeat-2_kbenyh.svg"
+        },
+        {
+          "title": "Làm việc từ xa",
+          "description": "Cơ hội làm việc từ xa cho các công ty công nghệ hàng đầu tại Hàn Quốc dành cho học viên xuất sắc.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/wifi_dm36sf.svg"
+        },
+        {
+          "title": "Lộ trình khoa học",
+          "description": "Được đúc kết và biên soạn bởi đội ngũ giảng viên chuyên nghiệp đến từ các đoàn lớn: Zalo - VNG Group, FPT software,…",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/book-open-check_gg842d.svg"
+        },
+        {
+          "title": "Project thực tế",
+          "description": "Học viên được thực hành và mài giũa kỹ năng liên tục thông qua các bài tập và dự án đa dạng, từ dễ đến khó.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/folder-git-2_rkngkw.svg"
+        },
+        {
+          "title": "Thời gian linh hoạt",
+          "description": "Thời gian học vào buổi tối, dễ dàng sắp xếp công việc. Hình thức học online và tương tác trực tiếp với giảng viên.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/calendar-check_r83jcs.svg"
+        },
+        {
+          "title": "Hỗ trợ 24/7",
+          "description": "Đội ngũ mentor tận tâm và nhiệt tình, luôn có mặt để giúp đỡ và giải đáp thắc mắc cho học viên 24/7.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/phone-incoming_byz9gp.svg"
+        },
+        {
+          "title": "Chứng nhận tốt nghiệp",
+          "description": "Sau khoá học, LIKELION sẽ cấp giấy chứng nhận hoàn thành khoá học cho các học viên đáp ứng đủ yêu cầu.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/graduation-cap_kfiuyr.svg"
+        }
+      ],
+      "techs": [
+        "python",
+        "sql",
+        "numpy",
+        "pandas",
+        "matplotlib",
+        "seaborn",
+        "plotly"
+      ],
+      "excerpt": "Nắm vững Python, ứng dụng vào xử lý và trực quan hoá dữ liệu sau 3 tháng.",
+      "trialUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeI0D0GgctKe_5dF0Abq2LJkMb18QlvUBAjNqkDmPm18LjZMg/viewform"
+    },
+    {
+      "id": "64df41785404ec4d4345fe3a",
+      "title": "Khoá học Back-end Java",
+      "slug": "khoa-hoc-back-end-java",
+      "features": [
+        "36 buổi học qua Google Meet",
+        "Slide bài giảng chi tiết, tài liệu tham khảo",
+        "2 projects thực tế và 1 đồ án cuối khoá "
+      ],
+      "objectives": [
+        "Hiểu đúng bản chất của ngôn ngữ lập trình Java để ứng dụng với Spring Framework",
+        "Vững kiến thức về Java Core cần thiết để ứng tuyển vào vị trí phát triển web",
+        "Kỹ năng tương tác và quản lý với cơ sở dữ liệu kết hợp cùng Spring framework",
+        "Thực hành xây dựng và phát triển dự án Website bằng Spring Boot và cơ sở dữ liệu",
+        "Trở thành lập trình viên Java Web bằng Spring Boot chỉ sau 3 tháng học"
+      ],
+      "objectives_src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696477507/courses/khoa-hoc-back-end-java/Java_2_fhiney.png",
+      "price": 6000000,
+      "requirements": [
+        "Bạn cần chuẩn bị máy tính cá nhân",
+        "LIKELION không yêu cầu kiến thức đầu vào"
+      ],
+      "subtitle": "Làm chủ Java, xây dựng hệ thống Back-end mạnh mẽ.",
+      "tagline": "Thống lĩnh giao diện người dùng, tối ưu hiệu quả web",
+      "abbr": "Java",
+      "thumbnail": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696606907/courses/khoa-hoc-back-end-java/Java_xyfepu.png",
+      "thumbnail_og": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695820991/courses/khoa-hoc-back-end-java/Java_u92xtx.png",
+      "background": {
+        "from": "#FFA4A4",
+        "to": "#DD4B3C"
+      },
+      "calendar": [
+        {
+          "title": "Back-end Java",
+          "start_date": "23/10/2023",
+          "duration": "12 tuần / 36 buổi",
+          "schedule": "Thứ 2 - 4 - 6 / 18:30 - 21:30",
+          "platform": "Google Meet"
+        }
+      ],
+      "promotions": [
+        "Học theo nhóm <strong>giảm thêm 200.000đ</strong>",
+        "Cựu học viên <strong>giảm thêm 300.000đ</strong>"
+      ],
+      "payment_methods": {
+        "once": {
+          "origin": 7500000,
+          "discounted": 6000000
+        },
+        "monthly": {
+          "times": 3,
+          "origin": 2500000
+        }
+      },
+      "modules": [
+        {
+          "name": "Kiến thức cơ bản Front-end cho website",
+          "lessons": [
+            "Các kiến thức nền tảng về Front end (HTML, CSS)",
+            "Nền tảng JavaScript (cú pháp, biến, hàm…)"
+          ],
+          "projects": []
+        },
+        {
+          "name": "Java core",
+          "lessons": [
+            "Giới thiệu khóa học và môi trường phát triển Java",
+            "Cú pháp cơ bản, biến, kiểu dữ liệu, toán tử",
+            "Câu lệnh điều kiện và vòng lặp",
+            "Lập trình hướng đối tượng: lớp, đối tượng, kế thừa",
+            "Xử lý ngoại lệ và đọc/ghi file",
+            "Collection Framework: ArrayList, Map, Set",
+            "Luồng (Thread) và đồng bộ hóa",
+            "Bài tập dự án nhỏ."
+          ],
+          "projects": []
+        },
+        {
+          "name": "Xây Dựng Spring Boot Với RESTFUL API",
+          "lessons": [
+            "Giới thiệu về Spring Framework và Spring Boot",
+            "Cấu hình dự án Spring Boot đầu tiên",
+            "Dependency Injection và IoC",
+            "Xây dựng RESTful API với Spring Boot",
+            "Xử lý dữ liệu từ database",
+            "Hibernate, sử dụng JPA để làm việc với cơ sở dữ liệu, Spring Data JDBC.",
+            "SQL: PostgreSQL",
+            "Bài tập dự án nhỏ."
+          ],
+          "projects": []
+        },
+        {
+          "name": "Xây Dựng Ứng Dụng Web Hoàn Chỉnh Với Spring Boot Và Giao Diện Người Dùng",
+          "lessons": [
+            "Thực hành xây dựng ứng dụng web hoàn chỉnh với Spring Boot",
+            "Thao tác CRUD, quản lý thông tin người dùng",
+            "Giao diện người dùng với Thymeleaf",
+            "JS, Ajax gọi api trong Thymeleaf",
+            "Hướng dẫn Unit Test",
+            "Hướng dẫn xử lý lỗi (Exception), ghi log và debug trong IntelliJ (ultimate, ver 2021), debug trên DevTools"
+          ],
+          "projects": []
+        },
+        {
+          "name": "Đồ án cuối khóa",
+          "lessons": [
+            "Hướng dẫn sử dụng Github",
+            "Hướng dẫn học viên làm dự án",
+            "Dự án tổng kết kiểm tra chất lượng"
+          ],
+          "projects": []
+        }
+      ],
+      "tags": {
+        "schedules": ["3 tháng", "36 buổi"],
+        "status": ["Online", "Beginner"]
+      },
+
+      "lecturers": [
+        {
+          "name": "Nguyễn Văn Minh",
+          "profession": "Java Engineer",
+          "description": "Xin chào, mình là Minh, chuyên ngành Kỹ sư phần mềm tại Đại học FPT và hiện đang đảm nhiệm vai trò là Java Engineer ở LIKELION. Mình mong muốn lan toả sự thú vị của lập trình và truyền động lực thử thách bản thân đến tất cả mọi người thông qua những tiết học sôi động và bài giảng lôi cuốn. Song song đó, với 4 năm kinh nghiệm lập trình trong mảng Back-end Java, mình sẽ giúp các bạn xây dựng nền tảng kiên cố cho con đường phát triển sự nghiệp sau này.",
+          "avatar": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1692603569/lecturers/Anh_Minh_aayl0j.png"
+        }
+      ],
+      "highlights": [
+        "Phát triển web nhanh chóng",
+        "Tương tác trực tiếp với giảng viên",
+        "Lộ trình khoa học, rõ ràng"
+      ],
+      "benefits": [
+        {
+          "title": "Cơ hội học bổng 100%",
+          "description": "Cơ hội nhận được học bổng toàn phần sau khi hoàn thành khoá học, hoàn 100% học phí cho học viên.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696690307/courses/assets/dollar-sign_l5mymm.svg"
+        },
+        {
+          "title": "Hỗ trợ học lại",
+          "description": "Hỗ trợ học lại toàn bộ khoá học một lần duy nhất cho các bạn cần củng cố và ôn lại kiến thức.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696497230/courses/assets/repeat-2_kbenyh.svg"
+        },
+        {
+          "title": "Làm việc từ xa",
+          "description": "Cơ hội làm việc từ xa cho các công ty công nghệ hàng đầu tại Hàn Quốc dành cho học viên xuất sắc.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/wifi_dm36sf.svg"
+        },
+        {
+          "title": "Lộ trình khoa học",
+          "description": "Được đúc kết và biên soạn bởi đội ngũ giảng viên chuyên nghiệp đến từ các đoàn lớn: Zalo - VNG Group, FPT software,…",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/book-open-check_gg842d.svg"
+        },
+        {
+          "title": "Project thực tế",
+          "description": "Học viên được thực hành và mài giũa kỹ năng liên tục thông qua các bài tập và dự án đa dạng, từ dễ đến khó.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/folder-git-2_rkngkw.svg"
+        },
+        {
+          "title": "Thời gian linh hoạt",
+          "description": "Thời gian học vào buổi tối, dễ dàng sắp xếp công việc. Hình thức học online và tương tác trực tiếp với giảng viên.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/calendar-check_r83jcs.svg"
+        },
+        {
+          "title": "Hỗ trợ 24/7",
+          "description": "Đội ngũ mentor tận tâm và nhiệt tình, luôn có mặt để giúp đỡ và giải đáp thắc mắc cho học viên 24/7.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/phone-incoming_byz9gp.svg"
+        },
+        {
+          "title": "Chứng nhận tốt nghiệp",
+          "description": "Sau khoá học, LIKELION sẽ cấp giấy chứng nhận hoàn thành khoá học cho các học viên đáp ứng đủ yêu cầu.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/graduation-cap_kfiuyr.svg"
+        }
+      ],
+      "techs": [
+        "java",
+        "springboot",
+        "hibernate",
+        "springdata",
+        "postgre",
+        "thymeleaf",
+        "junit",
+        "mockito"
+      ],
+      "excerpt": "Sử dụng thành thạo Spring Boot, dựng web nhanh chóng sau 3 tháng.",
+      "trialUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeI0D0GgctKe_5dF0Abq2LJkMb18QlvUBAjNqkDmPm18LjZMg/viewform"
+    },
+    {
+      "id": "6482a08d232bf6c1513a1111",
+      "title": "Bootcamp lập trình web Fullstack",
+      "subtitle": "Trở thành lập trình viên phát triển website toàn diện từ Front-end đến Back-end chỉ trong 3 tháng.",
+      "tagline": "Trở thành lập trình viên phát triển website toàn diện chỉ trong 3 tháng.",
+      "slug": "khoa-hoc-lap-trinh-web-fullstack",
+      "objectives": [
+        "Xây dựng 6 dự án phát triển web để bổ sung vào portfolio, sẵn sàng ứng tuyển vị trí Intern/Fresher lập trình viên web Full-stack",
+        "Cách triển khai đăng ký người dùng, đăng nhập, đăng xuất và nội dung do người dùng tạo",
+        "Thành thạo Front-end với ReactJS",
+        "Làm chủ Back-end với NodeJS",
+        "Kiểm soát cơ sở dữ liệu (MongoDB) sử dụng JavaScript",
+        "Seminar chia sẻ kinh nghiệm từ lập trình viên các tập đoàn lớn"
+      ],
+      "requirements": [
+        "Không yêu cầu Bạn cần chuẩn bị máy tính cá nhân",
+        "LIKELION không yêu cầu kiến thức đầu vào"
+      ],
+      "discountedPrice": 17500000,
+      "price": 22500000,
+      "features": [
+        "120 buổi học trực tiếp",
+        "30+ bài tập, 6 dự án thực tế và 1 đồ án cuối khóa"
+      ],
+      "abbr": "Fullstack",
+      "thumbnail": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696606727/courses/bootcamp-lap-trinh-web-fullstack/Bootcamp_cjcphm.png",
+      "thumbnail_og": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1696606742/courses/bootcamp-lap-trinh-web-fullstack/Bootcamp_1_qpclmx.png",
+      "background": {
+        "from": "#FFAE6C",
+        "to": "#FF7100"
+      },
+      "youtubeId": "duAOTul9UNs",
+      "calendar": [
+        {
+          "title": "Bootcamp 6",
+          "start_date": "25/09/2023",
+          "duration": "3 tháng / 120 buổi học",
+          "schedule": "Thứ 2 đến Thứ 6 / 9:00 - 17:00",
+          "location": {
+            "name": "Y5 Office",
+            "address": "135 Hai Bà Trưng, Quận 1, TP. HCM"
+          }
+        }
+      ],
+      "promotions": [
+        "Học theo nhóm <strong>giảm thêm 500.000đ</strong>",
+        "Cựu học viên <strong>giảm thêm 500.000đ</strong>"
+      ],
+      "payment_methods": {
+        "once": {
+          "origin": 19500000,
+          "discounted": 15000000
+        },
+        "monthly": {
+          "times": 3,
+          "origin": 5500000
+        }
+      },
+      "lecturers": [
+        {
+          "name": "Nguyễn Đức Huy",
+          "profession": "Fullstack Developer/Giảng viên",
+          "description": "Với hơn 2 năm kinh nghiệm trong ngành Data Science cùng 5 năm kinh nghiệm trong lĩnh vực phát triển website và giảng dạy khóa Bootcamp, mình tin chắc là sẽ đem đến cho các bạn những buổi học đầy thú vị và chất lượng. Tham gia khóa học, các bạn sẽ được hướng dẫn cách học lập trình hiệu quả nhất cũng như góp phần hoạch định được chính xác con đường phát triển thành một lập trình viên chuyên nghiệp. Huy đang ở đây để sẵn sàng “on air” cùng bạn!",
+          "avatar": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1692603569/lecturers/Anh_Huy_eumn2w.png"
+        },
+        {
+          "name": "Nguyễn Tuấn Phúc",
+          "profession": "Mentor",
+          "description": "Xin chào, mình là Phúc. Hiện đang đảm nhận vị trí mentor cho các khóa học của LIKELION. Nhờ kinh nghiệm thực chiến nhiều dự án khác nhau cùng khoảng thời gian dài đồng hành với các bạn học viên, từ sinh viên CNTT cho đến các bạn chuyển ngành, mình thấu hiểu được những khó khăn mà các bạn thường gặp phải trong quá trình học. Bởi vậy, mình sẽ luôn có mặt để hỗ trợ các bạn vượt qua mọi khó khăn trên chặng đường tiến đến thành công. Hãy đồng hành cùng nhau nhé!",
+          "avatar": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1692603569/lecturers/Anh_Phu%CC%81c_uuulxv.png"
+        },
+        {
+          "name": "Nguyễn Văn Minh",
+          "profession": "Software Engineer & Workshop Guest",
+          "description": "Xin chào, với hơn 4 năm chinh phục nhiều dự án trong mảng tài chính - ngân hàng cho các tập đoàn lớn như Shinhan, HSBC hay UOB và trực tiếp phụ trách tuyển dụng Developer cho các dự án, mình chắc chắn rằng sẽ khiến các bạn ồ lên thích thú khi tham gia các buổi workshops ở LIKELION. Không những thế, Minh sẽ “dằn túi” cho các bạn một núi bí quyết hay ho để vượt qua vòng phỏng vấn của các nhà tuyển dụng khó tính và nhanh chóng đạt được mục tiêu “đi làm như một Dev chính hiệu!”.",
+          "avatar": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1692603569/lecturers/Anh_Minh_aayl0j.png"
+        },
+        {
+          "name": "Nguyễn Khánh Dương",
+          "profession": "Senior Front-end Engineer & Workshop Guest",
+          "description": "Chào các bạn, mình là Dương, hiện đang đảm nhận vị trí Leader của team Front-end developer cho các dự án phát triển phần mềm. Mình từng làm việc tại các công ty công nghệ lớn như SUNO và Unit. Cùng hơn 4 năm kinh nghiệm triển khai các dự án trong lĩnh vực kỹ thuật phần mềm, mình sẽ chia sẻ cho các bạn tất tần tật “bí kíp sinh tồn” để làm hành trang trước khi dấn thân vào ngành IT với tinh thần đầy tự tin và nhiệt huyết nhé.",
+          "avatar": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1692603569/lecturers/Anh_Du%CC%9Bo%CC%9Bng_llbmjl.png"
+        }
+      ],
+      "modules": [
+        {
+          "name": "HTML, CSS từ cơ bản đến chuyên sâu",
+          "lessons": [
+            "Giới thiệu về HTML, CSS và vai trò của nó trong phát triển web",
+            "Cú pháp và cấu trúc HTML, CSS",
+            "Tạo văn bản, hình ảnh và liên kết chúng với trang web",
+            "Các phần tử: danh sách (list), biểu mẫu (form) và bảng (table)",
+            "CSS Selector: xác định các phần tử HMTL muốn áp dụng thuộc tính CSS",
+            "Các thuộc tính tạo kiểu cơ bản: màu sắc, phông chữ, nền,…",
+            "Tạo bố cục bằng CSS sử dụng model box, position, flexbox và grid",
+            "Thiết kế responsive và media query"
+          ],
+          "projects": ["Landing page", "Portfolio Website"]
+        },
+        {
+          "name": "Front-end: JavaScript ES6",
+          "lessons": [
+            "Giới thiệu về JavaScript: kiểu dữ liệu, biến, toán tử, cấu trúc kiểm soát",
+            "Hàm JavaScript: cách tạo và gọi hàm, biểu thức hàm và phạm vi truy cập",
+            "Mảng (array): các phương thức hữu ích như Map, Reduce, Filter và Find.",
+            "Đối tượng (object): phương thức và khái niệm lập trình hướng đối tượng",
+            "Mô hình các đối tượng tài liệu (DOM): cách thao tác với DOM; tạo, đọc, cập nhật và xoá các phần tử HTML",
+            "Lập trình bất đồng bộ (asynchronous): cách sử dụng Promise, Async/Await và fetch API",
+            "Các khái niệm JavaScript nâng cao: Closures, Hoisting, Prototypal inheritance, và Design patterns.",
+            "JavaScript ES6: hàm Arrow, cú pháp Destructuring toán tử Spread, Optional Chaining,…"
+          ],
+          "projects": ["To-do Application"]
+        },
+        {
+          "name": "Front-end nâng cao với ReactJS",
+          "lessons": [
+            "Giới thiệu về ReactJS: khái niệm, công dụng và cách cài đặt môi trường",
+            "Component và JSX: tạo component, hiểu cú pháp JSX, props, state",
+            "Biểu mẫu (form) và sự kiện (event): xử lý sự kiện, nhập và xác thực biểu mẫu",
+            "Định tuyến (routing) và điều hướng (navigation): sử dụng React Router, tạo liên kết và các route ",
+            "Những tính năng mới nhất (luôn được cập nhật) trong ReactJS: Hook, Context API, Suspense, React Lazy,… ",
+            "Sử dụng Firebase để tạo ứng dụng Full-stack "
+          ],
+          "projects": ["Ecommerce Website với ReactJS và Supabase"]
+        },
+        {
+          "name": "Back-end: NodeJS và MongoDB",
+          "lessons": [
+            "Giới thiệu về framework ExpressJS: khái niệm, công dụng và cách cài đặt môi trường",
+            "Làm chủ tất cả công nghệ Back-end hiện đại: NodeJS, MongoDB và Mongoose",
+            "Xây dựng RESTful API nhanh, có thể mở rộng và nhiều tính năng (bộ lọc, sắp xếp, phân trang,…)",
+            "NodeJS: event loop, blocking và non-blocking code, streams, modules,…",
+            "Triển khai CRUD với MongoDB và Mongoose",
+            "Mongoose nâng cao: các tính năng chuyên sâu",
+            "Cơ sở dữ liệu NoSQL và SQL",
+            "Authentication và authorization (bao gồm cài đặt lại mật khẩu)"
+          ],
+          "projects": ["Shopping Online REST API"]
+        },
+        {
+          "name": "Đồ án cuối khoá",
+          "lessons": [
+            "Ideathon: Thảo luận ý tưởng xây dựng trang web",
+            "Cùng đồng đội code ra ý tưởng của mình",
+            "Hackathon: Trình bày dự án cuối khoá và nhận feedback."
+          ],
+          "projects": ["Đồ án cuối khoá"]
+        },
+        {
+          "name": "Career week",
+          "lessons": [
+            "Workshop hướng dẫn, chỉnh sửa CV, Portfolio",
+            "Buổi phỏng vấn giả định nâng cao kỹ năng",
+            "Kết nối CV đến các doanh nghiệp IT trong mạng lưới",
+            "Chia sẻ kinh nghiệm thực tế"
+          ],
+          "projects": []
+        }
+      ],
+      "tags": {
+        "schedules": ["3 tháng", "120 buổi"],
+        "status": ["Offline", "Beginner"]
+      },
+
+      "benefits": [
+        {
+          "title": "Lộ trình khoa học",
+          "description": "Được đúc kết và biên soạn bởi đội ngũ giảng viên chuyên nghiệp đến từ các đoàn lớn: Zalo - VNG Group, FPT software,…",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/book-open-check_gg842d.svg"
+        },
+        {
+          "title": "Project thực tế",
+          "description": "Học viên được thực hành và mài giũa kỹ năng liên tục thông qua các bài tập và dự án đa dạng, từ dễ đến khó.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/folder-git-2_rkngkw.svg"
+        },
+        {
+          "title": "Cơ sở vật chất hiện đại",
+          "description": "Trang bị máy lạnh và máy tính cho tất cả các lớp.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/calendar-check_r83jcs.svg"
+        },
+        {
+          "title": "Hỗ trợ 24/7",
+          "description": "Đội ngũ mentor tận tâm và nhiệt tình, luôn có mặt để giúp đỡ và giải đáp thắc mắc cho học viên 24/7.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/phone-incoming_byz9gp.svg"
+        },
+        {
+          "title": "Chứng nhận tốt nghiệp",
+          "description": "Sau khoá học, LIKELION sẽ cấp giấy chứng nhận hoàn thành khoá học cho các học viên đáp ứng đủ yêu cầu.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/graduation-cap_kfiuyr.svg"
+        },
+        {
+          "title": "Làm việc từ xa",
+          "description": "Cơ hội làm việc từ xa cho các công ty công nghệ hàng đầu tại Hàn Quốc dành cho học viên xuất sắc.",
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1695807919/courses/assets/wifi_dm36sf.svg"
+        }
+      ],
+      "highlights": [
+        "Nâng cấp kỹ năng lập trình web",
+        "Dự án và bài tập thực tế",
+        "Tìm được việc làm sau 3 tháng"
+      ],
+      "techs": [
+        "html",
+        "css",
+        "js",
+        "react",
+        "tailwind",
+        "node",
+        "express",
+        "mongo",
+        "portgre"
+      ],
+      "excerpt": "Trở thành lập trình viên Fullstack Bootcamp sau 3 tháng.",
+      "showcases": [
+        {
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1688188472/courses/bootcamp-lap-trinh-web-fullstack/projects/dwelling.png",
+          "title": "Dwelling - Apartment Rental Company Website",
+          "tags": ["HTML", "CSS", "JavaScript"]
+        },
+        {
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1688188469/courses/bootcamp-lap-trinh-web-fullstack/projects/portfolio.png",
+          "title": "John Doe - Artist Portfolio Website",
+          "tags": ["HTML", "CSS", "JavaScript"]
+        },
+        {
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1688188468/courses/bootcamp-lap-trinh-web-fullstack/projects/phloko.png",
+          "title": "Floko - Design Agency Website",
+          "tags": ["JavaScript", "ReactJS", "Tailwind CSS"]
+        },
+        {
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1688188472/courses/bootcamp-lap-trinh-web-fullstack/projects/travel.png",
+          "title": "TrapTip - Traveling Agency Website",
+          "tags": ["JavaScript", "ReactJS", "Tailwind CSS"]
+        },
+        {
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1688188468/courses/bootcamp-lap-trinh-web-fullstack/projects/florist.png",
+          "title": "Florist - Flower Shop Website",
+          "tags": ["JavaScript", "ReactJS", "Supabase", "PostgreSQL"]
+        },
+        {
+          "src": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1688188468/courses/bootcamp-lap-trinh-web-fullstack/projects/greeny.png",
+          "title": "Greenery - Fruit eCommerce Website",
+          "tags": ["JavaScript", "ReactJS", "NodeJS", "MongoDB"]
+        }
+      ]
+    }
+  ],
+  "lecturers": [
+    {
+      "name": "Nguyễn Đức Huy",
+      "profession": "Tech Lead & Fullstack Developer",
+      "description": "Với hơn 2 năm kinh nghiệm trong ngành Data Science cùng 5 năm kinh nghiệm trong lĩnh vực phát triển website và giảng dạy khóa Bootcamp, mình tin chắc là sẽ đem đến cho các bạn những buổi học đầy thú vị và chất lượng. Tham gia khóa học, các bạn sẽ được hướng dẫn cách học lập trình hiệu quả nhất cũng như góp phần hoạch định được chính xác con đường phát triển thành một lập trình viên chuyên nghiệp. Huy đang ở đây để sẵn sàng “on air” cùng bạn!",
+      "avatar": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1692603569/lecturers/Anh_Huy_eumn2w.png"
+    },
+    {
+      "name": "Nguyễn Văn Minh",
+      "profession": "Java Engineer & Workshop Speaker",
+      "description": "Xin chào, với hơn 4 năm chinh phục nhiều dự án trong mảng tài chính - ngân hàng cho các tập đoàn lớn như Shinhan, HSBC hay UOB và trực tiếp phụ trách tuyển dụng Developer cho các dự án, mình chắc chắn rằng sẽ khiến các bạn ồ lên thích thú khi tham gia các buổi workshops ở LIKELION. Không những thế, Minh sẽ “dằn túi” cho các bạn một núi bí quyết hay ho để vượt qua vòng phỏng vấn của các nhà tuyển dụng khó tính và nhanh chóng đạt được mục tiêu “đi làm như một Dev chính hiệu!”.",
+      "avatar": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1692603569/lecturers/Anh_Minh_aayl0j.png"
+    },
+    {
+      "name": "Nguyễn Tuấn Phúc",
+      "profession": "Sotfware Engineer & Mentor",
+      "description": "Xin chào, mình là Phúc. Hiện đang đảm nhận vị trí mentor cho các khóa học của LIKELION. Nhờ kinh nghiệm thực chiến nhiều dự án khác nhau cùng khoảng thời gian dài đồng hành với các bạn học viên, từ sinh viên CNTT cho đến các bạn chuyển ngành, mình thấu hiểu được những khó khăn mà các bạn thường gặp phải trong quá trình học. Bởi vậy, mình sẽ luôn có mặt để hỗ trợ các bạn vượt qua mọi khó khăn trên chặng đường tiến đến thành công. Hãy đồng hành cùng nhau nhé!",
+      "avatar": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1692603569/lecturers/Anh_Phu%CC%81c_uuulxv.png"
+    },
+    {
+      "name": "Nguyễn Thu Hà",
+      "profession": "Java Developer | FPT Software",
+      "description": "Chào các bạn, mình là Thu Hà, chuyên ngành Kỹ thuật phần mềm tại Đại học Hà Nội và hiện đang làm việc ở FPT Software với vai trò là Java Developer, đảm nhiệm mảng Java trong các dự án team size lớn tại thị trường Châu Âu và Mỹ. Với 3 năm làm việc ở vị trí Java và kinh nghiệm triển khai các dự án CRM system, Microservice Platform trong lĩnh vực ngân hàng và healthcare, mình tự tin sẽ đem đến cho các bạn những giá trị và kiến thức bổ ích thông qua khoá học mà không dễ tìm thấy ở bất kỳ đâu.",
+      "avatar": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1693189979/lecturers/Chi%CC%A3_Ha%CC%80_1_rs38fo.png"
+    },
+    {
+      "name": "Đinh Hoàng Anh",
+      "profession": "AI Engineer | VNG-Zalo",
+      "description": "Chào các bạn! Mình là Hoàng Anh, chuyên ngành Khoa học máy tính tại Đại học Bách Khoa. Hiện mình đang làm việc ở vị trí AI Engineer tại Zalo. Với chuyên môn về AI Engineering cùng việc sử dụng thành thạo Python, SQL và ứng dụng các kỹ thuật xử lý dữ liệu trong các dự án AI, mình sẽ hướng dẫn cho các bạn cách thức hiệu quả nhất để làm chủ cơ sở dữ liệu. Từ đó rút ra những insights có giá trị cho doanh nghiệp của mình.",
+      "avatar": "https://res.cloudinary.com/dbscqlwl7/image/upload/v1692774556/lecturers/Hoa%CC%80ng_Anh_1_udvdf0.png"
+    }
+  ]
+}
